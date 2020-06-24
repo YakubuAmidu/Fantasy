@@ -1,2 +1,2 @@
 # Fantasy
-A website for adventurous people
+A website for adventurous people.
